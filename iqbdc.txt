@@ -17,3 +17,4 @@ Schedule of Events
 <tr><td>1:30 - 2:00pm</td>   <td>Triasic Room</td>    <td>Ada Byron on "Making the switch back to DOS"</td></tr>
 <tr><td>2:00 - 2:30pm</td>   <td>Triasic Room</td>    <td>C. Syntax on "OS/2 as a Multi-Tasking QBASIC Platform"</td></tr>
 <tr><td>2:30 - 3:00pm   Triasic Room    Eunice Unix on "Where do we go from here?"</td></tr>
+</table>
